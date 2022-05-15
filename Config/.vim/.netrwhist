@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/sang/Público/FAI/LCC/RPA/PracticaJava/Combustible'
+let g:netrw_dirhist_1='/home/sang/Público/FAI'
+let g:netrw_dirhist_0='/home/sang/Público/FAI/LCC'
+let g:netrw_dirhist_9='/home/sang/Público/FAI/LCC/RPA'
+let g:netrw_dirhist_8='/home/sang/Público/FAI/LCC/RPA/PracticaJava'
+let g:netrw_dirhist_7='/home/sang/Público/FAI/LCC/RPA/PracticaJava/Meritocracia'
+let g:netrw_dirhist_6='/home/sang/Público/FAI/LCC/RPA/PracticaJava'
+let g:netrw_dirhist_5='/home/sang/Público/FAI/LCC/RPA/PracticaJava/Combustible'
+let g:netrw_dirhist_4='/home/sang'
+let g:netrw_dirhist_3='/home/sang/.vim'
