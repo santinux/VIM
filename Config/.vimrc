@@ -14,9 +14,11 @@
 set nu
 set rnu
 
-set tabstop =2
-set softtabstop =2
-set shiftwidth =2
+" Según 'Linux Kernel Codestyle', las indentaciones deben ser de 8 espacios.
+
+set tabstop =8 
+set softtabstop =8
+set shiftwidth =8
 set autoindent
 set smartindent
 
@@ -28,6 +30,7 @@ syntax on
 set cursorline
 set cursorcolumn
 set colorcolumn =80
+highlight ColorColumn ctermbg =7
 set showmode
 set wildmenu
 "set wildmode =list:longest
