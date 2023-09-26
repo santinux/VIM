@@ -11,8 +11,8 @@
 
 " - Global Config -
 
-set nu
-set rnu
+set number
+set relativenumber
 
 " Según 'Linux Kernel Codestyle', las indentaciones deben ser de 8 espacios.
 
